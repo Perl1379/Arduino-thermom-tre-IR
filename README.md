@@ -1,1 +1,1 @@
-# Arduino-thermom-tre-IR
+# Arduino-thermometre-IR
